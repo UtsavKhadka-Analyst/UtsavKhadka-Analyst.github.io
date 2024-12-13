@@ -65,6 +65,3 @@ A highly motivated MS in Analytics student with strong statistical modeling, dat
 
 ## Interests
 - Data Analytics, Machine Learning, Soccer, Travelling, Weight Lifting
-```
-
-Feel free to copy this into your GitHub repository! If you need any further adjustments, just let me know.
