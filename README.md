@@ -5,7 +5,6 @@
 **Phone:** +1 9804159790, +1 3148146686  
 **Email:** utsavkhadka98@gmail.com  
 **LinkedIn:** linkedin.com/in/utsavkhadka
-
 ## Objective
 A highly motivated MS in Analytics student with strong statistical modeling, data analysis, and visualization skills. Experienced in Python, SQL, and R, and adept at using Tableau and Power BI to drive data-driven insights.
 
