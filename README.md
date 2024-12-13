@@ -1,7 +1,4 @@
-# UtsavKhadka-Analyst.github.io
-Sure! Here's your resume converted to GitHub Markdown format:
 
-```markdown
 # Utsav Khadka
 
 **Address:** 3902-3906 Lindell Blvd, St. Louis, MO, 63108  
