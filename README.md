@@ -43,7 +43,7 @@ A highly motivated MS in Analytics student with strong statistical modeling, dat
 - Performed analysis for predicting student performance related to study hours, attendance, and activities using data in R with packages such as dplyr for data manipulation, ggplot2 for visualization, and randomForest for building the model.
 
 ### Automobile Data Analysis and Launch the App on Streamlit
-- **Link:** GitHub Repository
+- **Link:** https://github.com/UtsavKhadka-Analyst/Exam1_streamlit.git
 - Analyzed automobile data and developed an interactive web application using Streamlit to visualize and explore the dataset.
 
 ## Experience
