@@ -1,10 +1,10 @@
-
 # Utsav Khadka
 
 **Address:** 3902-3906 Lindell Blvd, St. Louis, MO, 63108  
 **Phone:** +1 9804159790, +1 3148146686  
 **Email:** utsavkhadka98@gmail.com  
-**LinkedIn:** linkedin.com/in/utsavkhadka
+**LinkedIn:** LinkedIn
+
 ## Objective
 A highly motivated MS in Analytics student with strong statistical modeling, data analysis, and visualization skills. Experienced in Python, SQL, and R, and adept at using Tableau and Power BI to drive data-driven insights.
 
@@ -41,6 +41,10 @@ A highly motivated MS in Analytics student with strong statistical modeling, dat
 ### Predictive Analytics of Student Performance
 - **Date:** July 2022
 - Performed analysis for predicting student performance related to study hours, attendance, and activities using data in R with packages such as dplyr for data manipulation, ggplot2 for visualization, and randomForest for building the model.
+
+### Automobile Data Analysis and Launch the App on Streamlit
+- **Link:** GitHub Repository
+- Analyzed automobile data and developed an interactive web application using Streamlit to visualize and explore the dataset.
 
 ## Experience
 
