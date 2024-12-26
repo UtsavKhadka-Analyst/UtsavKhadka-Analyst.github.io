@@ -50,9 +50,10 @@ Analyzed supermarket sales data to identify trends, outliers, and key sales driv
 
 ---
 
-### Predictive Analytics of Student Performance
-- **Date:** July 2022  
-Performed analysis for predicting student performance related to study hours, attendance, and activities using data in R with packages such as dplyr for data manipulation, ggplot2 for visualization, and randomForest for building the model.
+### Predictive Analytics of Student Performance  
+**Date:** July 2022  
+Performed analysis for predicting student performance related to study hours, attendance, and activities using data in R with packages such as `dplyr` for data manipulation, `ggplot2` for visualization, and `randomForest` for building the model.  
+- **GitHub Repository:** [Student Performance Analysis](https://github.com/UtsavKhadka-Analyst/Student-performance-Analysis.git)
 
 ---
 
